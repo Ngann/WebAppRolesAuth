@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{06D60B35-FC18-402E-8613-1D491C776F88}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/Migrations/00000000000000_CreateIdentitySchema.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="75" Column="16" />
+      <File FileName="Data/Migrations/ApplicationDbContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="Data/ApplicationDbContext.cs" Line="1" Column="1" />
+      <File FileName="Data/Migrations/00000000000000_CreateIdentitySchema.Designer.cs" Line="1" Column="1" />
+      <File FileName="Data/Migrations/00000000000000_CreateIdentitySchema.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApp1" expanded="True">
+            <Node name="WebApp1" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Migrations" expanded="True">
+                  <Node name="00000000000000_CreateIdentitySchema.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApp1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
